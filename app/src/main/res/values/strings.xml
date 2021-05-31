@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReaddleTask</string>
+    <string name="simulate_changes">Simulate Changes</string>
+    <string name="grid">grid</string>
+    <string name="list">list</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+</resources>
